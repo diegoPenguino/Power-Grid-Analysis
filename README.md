@@ -1,9 +1,9 @@
 # US Power Grid Analysis
 Analysis of the network "Power Grid US"
 
-This undirected network contains information about the power grid of the Western States of the United States of America. An edge represents a power supply line. A node is either a generator, a transformator or a substation.
+This undirected network contains information about the power grid of the Western States of the United States of America.<br> An edge represents a power supply line.<br> A node is either a generator, a transformator or a substation.
 
-The document for the analysis is _Analysis of networl.pdf_, all the code used to analyze the network is inside _Analysis.ipynb_
+The document with all the analysis done is [here](/Analysis_of_network.pdf), all the code used to analyze the network is inside [_Analysis.ipynb_](/Analysis.ipynb)
 
 ![image](generators_graph.jpg)
 ## References
